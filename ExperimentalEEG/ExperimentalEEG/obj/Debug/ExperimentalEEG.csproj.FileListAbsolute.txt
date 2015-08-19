@@ -1,0 +1,7 @@
+c:\users\edata\documents\visual studio 2013\Projects\ExperimentalEEG\ExperimentalEEG\bin\Debug\ExperimentalEEG.exe.config
+c:\users\edata\documents\visual studio 2013\Projects\ExperimentalEEG\ExperimentalEEG\bin\Debug\ExperimentalEEG.exe
+c:\users\edata\documents\visual studio 2013\Projects\ExperimentalEEG\ExperimentalEEG\bin\Debug\ExperimentalEEG.pdb
+c:\users\edata\documents\visual studio 2013\Projects\ExperimentalEEG\ExperimentalEEG\bin\Debug\DotNetEmotivSDK.dll
+c:\users\edata\documents\visual studio 2013\Projects\ExperimentalEEG\ExperimentalEEG\obj\Debug\ExperimentalEEG.csprojResolveAssemblyReference.cache
+c:\users\edata\documents\visual studio 2013\Projects\ExperimentalEEG\ExperimentalEEG\obj\Debug\ExperimentalEEG.exe
+c:\users\edata\documents\visual studio 2013\Projects\ExperimentalEEG\ExperimentalEEG\obj\Debug\ExperimentalEEG.pdb
